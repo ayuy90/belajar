@@ -1,3 +1,3 @@
 User-agent: *
-
-Sitemap: https://ayuy90.github.io/belajar/sitemap.xml
+Disallow: 
+Sitemap: /sitemap.xml
